@@ -1,4 +1,6 @@
-# Scholar Newsletter Agent
+# Research Intelligence Agent
+
+--Production grade AI Agent I built for Healthcar LLC (https://healthcar.ai/) and it's clients 
 
 A multi-topic AI agent that reads labeled Google Scholar alert emails, enriches and
 categorizes their results, stores source-grounded vectors in PostgreSQL/pgvector, and creates
