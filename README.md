@@ -1,6 +1,6 @@
 # Scholar Newsletter Agent
 
-A multi-topic Python agent that reads labeled Google Scholar alert emails, enriches and
+A multi-topic AI agent that reads labeled Google Scholar alert emails, enriches and
 categorizes their results, stores source-grounded vectors in PostgreSQL/pgvector, and creates
 reviewable Gmail drafts. It never sends email.
 
